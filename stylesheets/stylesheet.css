@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 table{
-	border:0px;
+	border:5px;
 }
 ol  li{
 /*style:none;*/
