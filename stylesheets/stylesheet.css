@@ -29,8 +29,7 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 table{
-	border:none;
-};
+	border:0px;
 }
 ol  li{
 /*style:none;*/
